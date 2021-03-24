@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">4 IN A ROW</string>
+
+    <!-- Level -->
+    <string name="level_0">Easy</string>
+    <string name="level_1">Normal</string>
+    <string name="level_2">Hard</string>
+
+    <!-- game opponent modes -->
+    <string name="opponent_ai">COMPUTER</string>
+    <string name="opponent_player">FRIEND</string>
+
+    <string name="you">You</string>
+    <string name="friend">Friend</string>
+    <string name="restart_game">restart Game</string>
+    <string name="play">play</string>
+
+    <!-- game win modes -->
+    <string name="you_win">YOU WIN</string>
+    <string name="you_lose">YOU LOSE</string>
+    <string name="friend_win">FRIEND WINS</string>
+    <string name="draw">DRAW</string>
+    <string name="back">Back to menu?</string>
+    <string name="reset_game">Reset game?</string>
+    <string name="play_with">PLAY WITH</string>
+    <string name="choose_your_color">CHOOSE YOUR COLOR</string>
+    <string name="first_turn">FIRST TURN</string>
+    <string name="difficulty">DIFFICULTY</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>

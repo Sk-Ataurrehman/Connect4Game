@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- different text sizes-->
+    <dimen name="option_title_size">12sp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="seekbar_text_size">17sp</dimen>
+    <dimen name="app_title">40sp</dimen>
+    <dimen name="play_font_size">25sp</dimen>
+    <dimen name="player_indicator_image_size">42dp</dimen>
+</resources>
